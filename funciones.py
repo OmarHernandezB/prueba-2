@@ -51,3 +51,4 @@ def opcion_escogida(x):
         print("Salio del menú")    
     else:
         print("Ingrese una de las opciones del menú")
+        print("tao pai pai")
